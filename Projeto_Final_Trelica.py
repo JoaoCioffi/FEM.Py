@@ -243,9 +243,9 @@ for key, value in Reactions_1.items():
 print(f'\n{Fore.RED + Style.BRIGHT}>> Esforços internos em cada elemento:{Style.RESET_ALL}')
 for key, value in Elementary_Load.items():
     if Elementary_Load[key] > 0:
-        print(f'{key} = {value}N/mm²  -> this an element under tractive strength!')
+        print(f'{key} = {value}N/mm²  -> this is an element under tractive strength!')
     elif Elementary_Load[key] < 0:
-        print(f'{key} = {value}N/mm² -> this an element under compressive strength!')
+        print(f'{key} = {value}N/mm² -> this is an element under compressive strength!')
     else:
         print(f'{key} = {value}N/mm² -> this is a static element!')
 
