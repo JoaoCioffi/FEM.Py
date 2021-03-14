@@ -1,6 +1,6 @@
-## FEM.py 
+# FEM.py 
 
-- Some "Finite Elements Method" problems using Python as solver :)
+### Some "Finite Elements Method" problems using Python as solver :)
 
 - Project 01: "Spaghetti Bridge":
   1. "Projeto_Final__MEF.pdf" -> The project report (methodology and results);
