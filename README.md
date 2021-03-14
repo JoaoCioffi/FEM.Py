@@ -1,6 +1,7 @@
 ## FEM.py 
 
 - Some "Finite Elements Method" problems using Python as solver :)
+
 - Project 01: "Spaghetti Bridge":
   1. "Projeto_Final__MEF.pdf" -> The project report (methodology and results);
   2. "Projeto_Final_Trelica.py" -> Structural solver using truss elements (results: nodal displacements and elementary stresses);
