@@ -7,6 +7,6 @@
   3. "Projeto_MEF_V3_Final.py" -> Sctructural solver using beam elements (results: buckling modes and natural frequencies);
   4. All ".txt" files -> Input data for the previous file;
   5. Group Members:
-    * Giuseppe L. P. da Silva;
-    * João Pedro C. Gasparini;
-    * João R. Cioffi;
+      * Giuseppe L. P. da Silva;
+      * João Pedro C. Gasparini;
+      * João R. Cioffi;
