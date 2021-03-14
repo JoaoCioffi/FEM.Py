@@ -1,7 +1,7 @@
 ## FEM.py 
 
-- "Finite Elements Method" discipline final project during my graduation :)
-- Contents:
+- Some "Finite Elements Method" problems using Python as solver :)
+- Project 01: "Spaghetti Bridge":
   1. "Projeto_Final__MEF.pdf" -> The project report (methodology and results);
   2. "Projeto_Final_Trelica.py" -> Structural solver using truss elements (results: nodal displacements and elementary stresses);
   3. "Projeto_MEF_V3_Final.py" -> Sctructural solver using beam elements (results: buckling modes and natural frequencies);
