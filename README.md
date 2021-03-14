@@ -2,6 +2,11 @@
 
 - "Finite Elements Method" discipline final project during my graduation :)
 - Contents:
-  1. Aircraft_CG_Calculator.py: adapted code for ("Introdução às Cargas nas Aeronaves", Iscold, P. H.; Centro de Estudos Aeronáuticos - UFMG);
-  2. Vortex Lattice Method (VLM1 and VLM2) application example;
-      * Ps: needs the following files to run: 'pontos_de_controle.txt', 'vertices_anel.txt', 'vertices_painel.txt'.
+  1. "Projeto_Final__MEF.pdf" -> The project report (methodology and results);
+  2. "Projeto_Final_Trelica.py" -> Structural solver using truss elements (results: nodal displacements and elementary stresses);
+  3. "Projeto_MEF_V3_Final.py" -> Sctructural solver using beam elements (results: buckling modes and natural frequencies);
+  4. All ".txt" files -> Input data for the previous file;
+  5. Group Members:
+    * Giuseppe L. P. da Silva;
+    * João Pedro C. Gasparini;
+    * João R. Cioffi;
