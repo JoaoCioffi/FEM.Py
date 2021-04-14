@@ -9,5 +9,5 @@
   4. All ".txt" files -> Input data for the previous file;
   5. Group Members:
       * Giuseppe L. P. da Silva;
-      * João Pedro C. Gasparini;
+      * João P. C. Gasparini;
       * João R. Cioffi;
